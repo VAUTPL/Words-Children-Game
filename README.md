@@ -5,8 +5,8 @@ This game allows users to interact and decode the correct order of several words
 # Profesor:                                
 Rodrigo Barba        lrbarba@utpl.edu.ec  
 # Students:                                 
-Henry Vivanco      hpvivanco@utpl.edu.ec 
-Alberto Guarnizo   jaguarnizo4@utpl.edu.ec
+* Henry Vivanco      hpvivanco@utpl.edu.ec 
+* Alberto Guarnizo   jaguarnizo4@utpl.edu.ec
 # System Requirements
 - An i3 or better processor. The faster the better, especially at high video resolutions.
 - 2 GB or more RAM.
