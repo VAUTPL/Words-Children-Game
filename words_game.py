@@ -47,7 +47,7 @@ c_punt=[0,0,0]
 l_p=10
 #funcion para cargar las imagenes de la primera palabra
 def CargarImagen1():
-    pal1 = cv2.imread("images\ca.png")
+    pal1 = cv2.imread("images\car.png")
     pal3 = cv2.imread("images/me.png")
     pal2 = cv2.imread("images/ra.png")
     pal4 = cv2.imread("images/lo.png")
